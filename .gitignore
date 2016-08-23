@@ -35,3 +35,30 @@ local.properties
 .Trashes
 ehthumbs.db
 Thumbs.db
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+# Eclipse project files
+.classpath
+.project
+
+# Android Studio
+.gradle
+/*/local.properties
+/*/out
+/*/*/build
+/*/*/production
+*.iws
+*.ipr
+*~
+*.swp
